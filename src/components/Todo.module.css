@@ -20,10 +20,14 @@ td input {
 }
 td span {
     float: left;
-    width: 290px;
+    width: 295px;
 }
 td button {
     float: right;
     width: 55px;
     margin-right: 10px;
+}
+
+td {
+    padding: 5px 0;
 }
